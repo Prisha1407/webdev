@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: #1e82ca;
+  color: #00010b;
+  padding: 20px 0;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+}
+
+section {
+  padding: 20px;
+  margin: 20px 0;
+}
+
+section#about img {
+  max-width: 150px;
+  border-radius: 50%;
+}
+
+section#skills ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+section#skills li {
+  background: #4eaceb;
+  margin: 5px 0;
+  padding: 10px;
+  border-left: 5px solid #0c0303;
+}
+
+footer {
+  background: #2bbcf0;
+  color: #110202;
+  text-align: center;
+  padding: 10px 0;
+}
